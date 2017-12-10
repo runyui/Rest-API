@@ -1,0 +1,27 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "<index.js>",
+  "main": "index.js",
+  "scripts": {
+    "test": "restAPI"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/runyui/Rest-API.git"
+  },
+  "keywords": [
+    "Game"
+  ],
+  "author": "Yes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/runyui/Rest-API/issues"
+  },
+  "homepage": "https://github.com/runyui/Rest-API#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2"
+  }
+}
